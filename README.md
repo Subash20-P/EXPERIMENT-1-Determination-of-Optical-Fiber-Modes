@@ -1,4 +1,3 @@
-[
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
@@ -65,4 +64,3 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ## Result
 The mode Characteristics of a optic fiber is found to be 5 modes.
-](https://lms2.ai.saveetha.in/)
