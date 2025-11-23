@@ -1,4 +1,4 @@
-
+[
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
@@ -62,3 +62,4 @@ Total number of modes = V^2 / 2 = 4.91^2 / 2
 ---
 ## Tabulation
 ## Result
+](https://lms2.ai.saveetha.in/)
